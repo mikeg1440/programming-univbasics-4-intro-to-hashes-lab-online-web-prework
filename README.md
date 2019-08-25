@@ -18,6 +18,8 @@ suite messages as you work through your solution.
 1. Create a method called `new_hash` that creates and returns a new, empty
    hash.
 
+
+
 2. Create a method called `my_hash` that returns a valid hash. This hash should
    have at least one key/value pair of your choice.
 
